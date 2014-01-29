@@ -1,6 +1,10 @@
 Guide on the Side
 =================
 
+This guide is an appropriation of the U of A (hiss) Guide.
+We hope to create tutorials as cool as those at the U of A (hiss).
+AndersonUniversity.edu/library.aspx?id=4840
+
 About
 -------------------------------------------------------------------------------
 
